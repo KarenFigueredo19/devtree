@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "devtree",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Primer Proyecto con Express y TypeScript",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenFigueredo19/devtree.git"
+  },
+  "author": "Karen Figueredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarenFigueredo19/devtree/issues"
+  },
+  "homepage": "https://github.com/KarenFigueredo19/devtree#readme"
+}
